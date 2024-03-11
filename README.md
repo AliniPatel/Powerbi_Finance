@@ -1,5 +1,5 @@
 # Finance Report Dashboard
-Hello Eveyone
+Hello Eveyone,
 I made this finance report in Power Bi with the Finance Excel Workbook provided by Microsoft on their Website
 
 # Dashboard
